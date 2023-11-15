@@ -1,0 +1,36 @@
+h1{
+    color:white;
+}
+h2{
+    color:whitesmoke ;
+}
+#bodybg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.551),rgba(0, 0, 0, 0.545)),url('images/profile.jpg');
+    height: 150vh;
+    background-size: cover;
+    background-position: center;
+}
+p{
+  color:antiquewhite;
+}
+b{
+    color:lightgray
+
+}
+ol{
+    color:beige
+}
+a{
+    color:white
+}
+h1{
+    text-align: center
+    
+}
+/*img{
+    border-radius: 50%;
+    width: 200px;
+    height: 300px;
+    justify-content: center;
+    align
+}*/
